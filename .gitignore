@@ -57,6 +57,10 @@
 local.sbt
 jitwatch.out
 
+/19_テスト/scalatest_study/target
+/19_テスト/scalatest_study/project/target
+/19_テスト/scalatest_study/project/project
+
 # Used by the restarr/restarrFull commands as target directories
 /build-restarr/
 /target-restarr/
